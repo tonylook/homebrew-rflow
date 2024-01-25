@@ -3,8 +3,8 @@ class Rflow < Formula
 
   desc "A brief description of Rflow"
   homepage "https://github.com/tonylook/rflow"
-  url "https://github.com/tonylook/rflow/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "b405114906c4f6f9c4483bd84c5fc5af1ed68953a66c0641b8b96ad1d122efbf"
+  url "https://github.com/tonylook/rflow/archive/refs/tags/v1.5.0.tar.gz"
+  sha256 "de7e426005a771b6a2ad67385520b5bc38558b790e1bedefeeb5e1a83a0f9f7d"
 
   depends_on "python@3.11"
 
